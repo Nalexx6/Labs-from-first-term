@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/C++/1/1 course 1 term(2019)/Lab_3(null of function)/main.cpp
+iostream
+-
+cmath
+-
+GL/gl.h
+-
+GL/freeglut.h
+-
+
